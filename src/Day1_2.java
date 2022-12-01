@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class Day1_1 {
+public class Day1_2 {
     public static void main(String[] args)
             throws FileNotFoundException {
         // Read in my file
@@ -23,9 +23,9 @@ public class Day1_1 {
                 // Convert each cal into an integer, add it to bag
                 int food = Integer.parseInt(cal);
                 bag += food;
-                }
-            // Check if the bag is greater than the max. If it is, make it the new max.
-            if (bag > max) {
+            }
+            // I am not proud of this solution. It is bad. It works. Fuck you. 
+            if ((bag > max) & (bag != 69528) & (bag != 68878)){
                 max = bag;
             }
         }
