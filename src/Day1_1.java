@@ -6,7 +6,7 @@ public class Day1_1 {
     public static void main(String[] args)
             throws FileNotFoundException {
         // Read in my file
-        File file = new File("//Users//patrickwilliams//IdeaProjects//advent//src//Day1_1 input");
+        File file = new File("src/Day1_1 input");
 
         // Split the file into each elf
         Scanner scan = new Scanner(file);

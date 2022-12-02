@@ -6,7 +6,7 @@ public class Day2_1 {
             throws FileNotFoundException {
 
         // Read in file, split it by new line to get each round
-        File file = new File("/Users/patrickwilliams/IdeaProjects/advent/src/Day2_1 input");
+        File file = new File("src/Day2_1 input");
         Scanner scan = new Scanner(file);
         scan.useDelimiter("\\n");
 
