@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96effdc8-f7be-4187-9fd4-a48ee1e827b2" name="Changes" comment="fixed file pathing">
-      <change afterPath="$PROJECT_DIR$/src/Day3_1 input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3_2.java" afterDir="false" />
+    <list default="true" id="96effdc8-f7be-4187-9fd4-a48ee1e827b2" name="Changes" comment="added day 3">
+      <change afterPath="$PROJECT_DIR$/src/Day4_1 input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -156,7 +155,8 @@
     <MESSAGE value="challenge 1_1 done, in 1:24" />
     <MESSAGE value="challenge 1_2 done, in 0:48" />
     <MESSAGE value="fixed file pathing" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed file pathing" />
+    <MESSAGE value="added day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="added day 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
