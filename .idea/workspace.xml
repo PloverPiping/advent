@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96effdc8-f7be-4187-9fd4-a48ee1e827b2" name="Changes" comment="added day 3">
-      <change afterPath="$PROJECT_DIR$/src/Day4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fileScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day 6_1 input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day4_1 input" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4_1 input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +53,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day4_2">
-    <configuration name="Day2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2_2" />
-      <module name="advent" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day6_1">
     <configuration name="Day3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day3_1" />
       <module name="advent" />
@@ -91,13 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6_1" />
+      <module name="advent" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day6_1" />
         <item itemvalue="Application.Day4_2" />
         <item itemvalue="Application.Day4_1" />
         <item itemvalue="Application.Day3_2" />
         <item itemvalue="Application.Day3_1" />
-        <item itemvalue="Application.Day2_2" />
       </list>
     </recent_temporary>
   </component>
